@@ -50,6 +50,9 @@ body {
 </head>
 
 <body>
+<!--
+<?php echo $dir."<br>".$file."<br>".$extension."<br>"; print_r($_GET); echo $_GET['page']; ?>
+-->
 <!-- LAYOUT -->
 	<?php if (file_exists($topbar)) include($topbar); else echo 'ERROR loading Topbar'; ?>
 
@@ -58,7 +61,7 @@ body {
 
 			<?php if (file_exists($sidebar)) include($sidebar); ?>
 
-			<?php if (file_exists($content)) include($content); else echo 'ERROR loading Content:', $content; ?>
+			<?php if (file_exists($content)) include($content); else echo 'Error page does not exist:', $content; ?>
 
 		</div>
 		<!--/row-->

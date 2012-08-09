@@ -2,7 +2,7 @@
 <div class="span9">
 	<div class="hero-unit">
 		<h1>Meetings</h1>
-		<p>Meeting Info</p>
+		<p>Meeting Information...</p>
 		<p>xxx yyy
 			<a class="btn btn-primary btn-large">Learn more &raquo;</a>
 		</p>
