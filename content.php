@@ -1,83 +1,46 @@
 
 <div class="span12">
 	<div class="hero-unit">
-		<h1>EDUSAFE programme</h1>
-		<p>General description of EDUSAFE...</p>
-		<p>
-			<a class="btn btn-primary btn-large">Learn more &raquo;</a>
-		</p>
+		<h1>EDUSAFE</h1>
+		<p>EDUSAFE is an ITN programme...</p>
 	</div>
 	<div class="row-fluid">
 		<div class="span4">
-			<h2>Heading</h2>
-			<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus,
-				tellus ac cursus commodo, tortor mauris condimentum nibh, ut
-				fermentum massa justo sit amet risus. Etiam porta sem malesuada
-				magna mollis euismod. Donec sed odio dui.</p>
+			<h2>Kick-Off Meeting</h2>
+			<p>EDUSAFE's kick-off meeting will be organized at CERN on Monday
+				17th of September, 2012. We warmly welcome you or a representative
+				of your organization to this first official meeting. The goal of the
+				meeting is to outline the scientific scope of the project and give
+				you a short overview of the administrative procedures.</p>
 			<p>
-				<a class="btn" href="#">View details &raquo;</a>
+				<a class="btn"
+					href="https://indico.cern.ch/conferenceDisplay.py?confId=202302">More
+					Information &raquo;</a>
 			</p>
 		</div>
 		<!--/span-->
 		<div class="span4">
-			<h2>Heading</h2>
-			<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus,
-				tellus ac cursus commodo, tortor mauris condimentum nibh, ut
-				fermentum massa justo sit amet risus. Etiam porta sem malesuada
-				magna mollis euismod. Donec sed odio dui.</p>
+			<h2>1st Supervisory Board</h2>
+			<p>The 1st Supervisory Board will be held as part of the kick-off
+				meeting.</p>
 			<p>
-				<a class="btn" href="#">View details &raquo;</a>
+				<a class="btn"
+					href="https://indico.cern.ch/conferenceDisplay.py?confId=202302">More
+					Information &raquo;</a>
 			</p>
 		</div>
 		<!--/span-->
 		<div class="span4">
-			<h2>Heading</h2>
-			<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus,
-				tellus ac cursus commodo, tortor mauris condimentum nibh, ut
-				fermentum massa justo sit amet risus. Etiam porta sem malesuada
-				magna mollis euismod. Donec sed odio dui.</p>
+			<h2>Web Site Launch</h2>
+			<p>The EDUSAFE web site is launched.</p>
 			<p>
-				<a class="btn" href="#">View details &raquo;</a>
+				<a class="btn" href="mailto:Mark.Donszelmann@cern.ch">Send Comments
+					&amp; Feedback &raquo;</a>
 			</p>
 		</div>
-		<!--/span-->
 	</div>
-	<!--/row-->
-	<div class="row-fluid">
-		<div class="span4">
-			<h2>Heading</h2>
-			<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus,
-				tellus ac cursus commodo, tortor mauris condimentum nibh, ut
-				fermentum massa justo sit amet risus. Etiam porta sem malesuada
-				magna mollis euismod. Donec sed odio dui.</p>
-			<p>
-				<a class="btn" href="#">View details &raquo;</a>
-			</p>
-		</div>
-		<!--/span-->
-		<div class="span4">
-			<h2>Heading</h2>
-			<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus,
-				tellus ac cursus commodo, tortor mauris condimentum nibh, ut
-				fermentum massa justo sit amet risus. Etiam porta sem malesuada
-				magna mollis euismod. Donec sed odio dui.</p>
-			<p>
-				<a class="btn" href="#">View details &raquo;</a>
-			</p>
-		</div>
-		<!--/span-->
-		<div class="span4">
-			<h2>Heading</h2>
-			<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus,
-				tellus ac cursus commodo, tortor mauris condimentum nibh, ut
-				fermentum massa justo sit amet risus. Etiam porta sem malesuada
-				magna mollis euismod. Donec sed odio dui.</p>
-			<p>
-				<a class="btn" href="#">View details &raquo;</a>
-			</p>
-		</div>
-		<!--/span-->
-	</div>
-	<!--/row-->
+	<!--/span-->
+</div>
+<!--/row-->
 </div>
 <!--/span-->
