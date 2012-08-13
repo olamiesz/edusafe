@@ -41,27 +41,27 @@
 		<li>Knowledge of Augmented Reality technology and methods would be a
 			plus</li>
 		<li>Fluent English language is mandatory, French knowledge will be
-			appreciated
-			</li>
-			</ul>
-			
-			<p>The candidate will participate in network wide activities
-			such as common test campaigns with ESRs from the other EDUSAFE
-			partners, workshops, summer schools and conferences.</p> <p>The appointed
-			researcher will be offered the possibility to study for a PhD at NTUA
-			National Technical University Athens, using the research work
-			performed within the EDUSAFE project to obtain a PhD at the end of
-			the 3 years appointment.</p> <p><strong>The ESR will be under employment contract
-			with CERN, European Organization for Nuclear Research. The successful
-			candidate will be based in Geneva, Switzerland. The duration of the
-			contract is 3 years starting January 2013, full time and fix-term.</strong></p>
-			
-			<p>
-			Contact : Olga Beltramello
-			</p>
+			appreciated</li>
+	</ul>
 
-			<p>
-				<a class="btn" href="TBS">View details &raquo;</a>
-			</p>
+	<p>The candidate will participate in network wide activities such as
+		common test campaigns with ESRs from the other EDUSAFE partners,
+		workshops, summer schools and conferences.</p>
+	<p>The appointed researcher will be offered the possibility to study
+		for a PhD at NTUA National Technical University Athens, using the
+		research work performed within the EDUSAFE project to obtain a PhD at
+		the end of the 3 years appointment.</p>
+	<p>
+		<strong>The ESR will be under employment contract with CERN, European
+			Organization for Nuclear Research. The successful candidate will be
+			based in Geneva, Switzerland. The duration of the contract is 3 years
+			starting January 2013, full time and fix-term.</strong>
+	</p>
+
+	<p>Contact : Olga Beltramello</p>
+
+	<p>
+		<a class="btn" href="TBS">View details &raquo;</a>
+	</p>
 
 </div>
