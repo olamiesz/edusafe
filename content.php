@@ -6,9 +6,9 @@
 	</div>
 	<div class="row-fluid">
 		<ul class="thumbnails">
-			<li><a href="http://ec.europa.eu/research/mariecurieactions/"
-				target="blank" rel="tooltip" title="Marie Curie Actions"
-				class="thumbnail"> <img src="./img/logoMarieCurie80x56.png" alt=""/>
+			<li><a href="http://atlas.web.cern.ch/Atlas/Collaboration/"
+				target="blank" rel="tooltip" title="ATLAS"
+				class="thumbnail"> <img src="./img/logoATLAS147x56.png" alt="" />
 			</a>
 			</li>
 
@@ -18,21 +18,9 @@
 			</a>
 			</li>
 
-			<li><a href="http://atlas.web.cern.ch/Atlas/Collaboration/"
-				target="blank" rel="tooltip" title="ATLAS"
-				class="thumbnail"> <img src="./img/logoATLAS80x56.png" alt="" />
-			</a>
-			</li>
-
-			<li><a href="http://cordis.europa.eu/fp7/home_en.html" target="blank"
-				rel="tooltip" title="The Seventh Framework Programme"
-				class="thumbnail"> <img src="./img/logoFP7People80x56.png" alt="" />
-			</a>
-			</li>
-
 			<li><a href="http://www.epfl.ch" target="blank" rel="tooltip"
 				title="Ecole Polytechnique Federale de Lausanne"
-				class="thumbnail"> <img src="./img/logoEPFL80x56.png" alt="" />
+				class="thumbnail"> <img src="./img/logoEPFL116x56.png" alt="" />
 			</a>
 			</li>
 
@@ -51,16 +39,27 @@
 
 			<li><a href="http://www.novocaptis.com/" target="blank" rel="tooltip"
 				title="Novocaptis" class="thumbnail"> <img
-					src="./img/logoNovocaptis80x56.png" alt="" />
+					src="./img/logoNovocaptis111x56.png" alt="" />
 			</a>
 			</li>
 
 			<li><a href="http://www.prisma.gr" target="blank" rel="tooltip"
 				title="Prisma" class="thumbnail"> <img
-					src="./img/logoPrisma80x56.png" alt="" />
+					src="./img/logoPrisma153x56.png" alt="" />
 			</a>
 			</li>
 
+			<li><a href="http://ec.europa.eu/research/mariecurieactions/"
+				target="blank" rel="tooltip" title="Marie Curie Actions"
+				class="thumbnail"> <img src="./img/logoMarieCurie80x56.png" alt=""/>
+			</a>
+			</li>
+
+			<li><a href="http://cordis.europa.eu/fp7/home_en.html" target="blank"
+				rel="tooltip" title="The Seventh Framework Programme"
+				class="thumbnail"> <img src="./img/logoFP7People80x56.png" alt="" />
+			</a>
+			</li>
 		</ul>
 
 	</div>
