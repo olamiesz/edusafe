@@ -2,7 +2,6 @@
 	<div class="hero-unit">
 		<h1>EDUSAFE</h1>
 		<p>EDUSAFE is an ITN programme...</p>
-
 	</div>
 	<div class="row-fluid">
 		<ul class="thumbnails">
@@ -18,6 +17,21 @@
 			</a>
 			</li>
 
+			<li><a href="http://ec.europa.eu/research/mariecurieactions/"
+				target="blank" rel="tooltip" title="Marie Curie Actions"
+				class="thumbnail"> <img src="./img/logoMarieCurie80x56.png" alt=""/>
+			</a>
+			</li>
+
+			<li><a href="http://cordis.europa.eu/fp7/home_en.html" target="blank"
+				rel="tooltip" title="The Seventh Framework Programme"
+				class="thumbnail"> <img src="./img/logoFP7People80x56.png" alt="" />
+			</a>
+			</li>
+
+</ul>
+<br/>
+<ul class="thumbnails">
 			<li><a href="http://www.epfl.ch" target="blank" rel="tooltip"
 				title="Ecole Polytechnique Federale de Lausanne"
 				class="thumbnail"> <img src="./img/logoEPFL116x56.png" alt="" />
@@ -49,17 +63,24 @@
 			</a>
 			</li>
 
-			<li><a href="http://ec.europa.eu/research/mariecurieactions/"
-				target="blank" rel="tooltip" title="Marie Curie Actions"
-				class="thumbnail"> <img src="./img/logoMarieCurie80x56.png" alt=""/>
+			<li><a href="http://www.aueb.gr" target="blank" rel="tooltip"
+				title="Athens University of Economics and Business" class="thumbnail"> <img
+					src="./img/logoAUEB81x56.png" alt="" />
 			</a>
 			</li>
 
-			<li><a href="http://cordis.europa.eu/fp7/home_en.html" target="blank"
-				rel="tooltip" title="The Seventh Framework Programme"
-				class="thumbnail"> <img src="./img/logoFP7People80x56.png" alt="" />
+			<li><a href="http://www.canberra.com" target="blank" rel="tooltip"
+				title="CANBERRA" class="thumbnail"> <img
+					src="./img/logoCanberra133x56.png" alt="" />
 			</a>
 			</li>
+
+			<li><a href="http://www.tum.de" target="blank" rel="tooltip"
+				title="Technical University Munchen" class="thumbnail"> <img
+					src="./img/logoTum56x56.png" alt="" />
+			</a>
+			</li>
+
 		</ul>
 
 	</div>
