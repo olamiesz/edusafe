@@ -6,80 +6,67 @@
 	<div class="row-fluid">
 		<ul class="thumbnails">
 			<li><a href="http://atlas.web.cern.ch/Atlas/Collaboration/"
-				target="blank" rel="tooltip" title="ATLAS"
-				class="thumbnail"> <img src="./img/logoATLAS147x56.png" alt="" />
-			</a>
-			</li>
+				target="blank" rel="tooltip" title="ATLAS" class="thumbnail"> <img
+					src="./img/logoATLAS147x56.png" alt="" />
+			</a></li>
 
 			<li><a href="http://public.web.cern.ch/public/" target="blank"
 				rel="tooltip" title="CERN" class="thumbnail"> <img
 					src="./img/logoCERN80x56.png" alt="" />
-			</a>
-			</li>
+			</a></li>
 
 			<li><a href="http://ec.europa.eu/research/mariecurieactions/"
 				target="blank" rel="tooltip" title="Marie Curie Actions"
-				class="thumbnail"> <img src="./img/logoMarieCurie80x56.png" alt=""/>
-			</a>
-			</li>
+				class="thumbnail"> <img src="./img/logoMarieCurie80x56.png" alt="" />
+			</a></li>
 
 			<li><a href="http://cordis.europa.eu/fp7/home_en.html" target="blank"
 				rel="tooltip" title="The Seventh Framework Programme"
 				class="thumbnail"> <img src="./img/logoFP7People80x56.png" alt="" />
-			</a>
-			</li>
+			</a></li>
 
-</ul>
-<br/>
-<ul class="thumbnails">
+		</ul>
+		<br />
+		<ul class="thumbnails">
 			<li><a href="http://www.epfl.ch" target="blank" rel="tooltip"
-				title="Ecole Polytechnique Federale de Lausanne"
-				class="thumbnail"> <img src="./img/logoEPFL116x56.png" alt="" />
-			</a>
-			</li>
+				title="Ecole Polytechnique Federale de Lausanne" class="thumbnail">
+					<img src="./img/logoEPFL116x56.png" alt="" />
+			</a></li>
 
 			<li><a href="http://www.ntua.gr/index_en.html" target="blank"
-				rel="tooltip"
-				title="National Technical University of Athens"
+				rel="tooltip" title="National Technical University of Athens"
 				class="thumbnail"> <img src="./img/logoNTUA80x56.png" alt="" />
-			</a>
-			</li>
+			</a></li>
 
 			<li><a href="http://web.uniroma2.it/home-en.php" target="blank"
 				rel="tooltip" title="Tor Vergata" class="thumbnail"> <img
 					src="./img/logoTOV80x56.png" alt="" />
-			</a>
-			</li>
+			</a></li>
 
 			<li><a href="http://www.novocaptis.com/" target="blank" rel="tooltip"
 				title="Novocaptis" class="thumbnail"> <img
 					src="./img/logoNovocaptis111x56.png" alt="" />
-			</a>
-			</li>
+			</a></li>
 
 			<li><a href="http://www.prisma.gr" target="blank" rel="tooltip"
 				title="Prisma" class="thumbnail"> <img
 					src="./img/logoPrisma153x56.png" alt="" />
-			</a>
-			</li>
+			</a></li>
 
 			<li><a href="http://www.aueb.gr" target="blank" rel="tooltip"
-				title="Athens University of Economics and Business" class="thumbnail"> <img
-					src="./img/logoAUEB81x56.png" alt="" />
-			</a>
-			</li>
+				title="Athens University of Economics and Business"
+				class="thumbnail"> <img src="./img/logoAUEB81x56.png" alt="" />
+			</a></li>
 
 			<li><a href="http://www.canberra.com" target="blank" rel="tooltip"
 				title="CANBERRA" class="thumbnail"> <img
 					src="./img/logoCanberra133x56.png" alt="" />
-			</a>
-			</li>
+			</a></li>
 
 			<li><a href="http://www.tum.de" target="blank" rel="tooltip"
 				title="Technical University Munchen" class="thumbnail"> <img
 					src="./img/logoTum56x56.png" alt="" />
-			</a>
-			</li>
+			</a></li>
 
 		</ul>
 
@@ -97,7 +84,8 @@
 			<p>
 				<a class="btn"
 					href="https://indico.cern.ch/conferenceDisplay.py?confId=202302">More
-					Information &raquo;</a>
+					Information <i class="icon-circle-arrow-right"></i>
+				</a>
 			</p>
 		</div>
 		<!--/span-->
@@ -108,7 +96,8 @@
 			<p>
 				<a class="btn"
 					href="https://indico.cern.ch/conferenceDisplay.py?confId=202302">More
-					Information &raquo;</a>
+					Information <i class="icon-circle-arrow-right"></i>
+				</a>
 			</p>
 		</div>
 		<!--/span-->
@@ -117,10 +106,18 @@
 			<p>The EDUSAFE web site is launched.</p>
 			<p>
 				<a class="btn" href="mailto:Mark.Donszelmann@cern.ch">Send Comments
-					&amp; Feedback &raquo;</a>
+					&amp; Feedback <i class="icon-envelope"></i>
+				</a>
 			</p>
 		</div>
 	</div>
 	<!--/row-->
 </div>
 <!--/span-->
+
+<script>
+		$(function () {
+		  $("a[rel=tooltip]").tooltip(show)
+		})
+</script>
+
