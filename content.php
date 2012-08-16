@@ -105,7 +105,7 @@
 			<h2>Web Site Launch</h2>
 			<p>The EDUSAFE web site is launched.</p>
 			<p>
-				<a class="btn" href="mailto:Mark.Donszelmann@cern.ch">Send Comments
+				<a class="btn" href="mailto:atlas-edusafe-webmaster@cern.ch">Send Comments
 					&amp; Feedback <i class="icon-envelope"></i>
 				</a>
 			</p>
