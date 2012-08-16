@@ -44,7 +44,7 @@
 		campaigns with Early Stage Researchers from other EDUSAFE partners,
 		workshops, summer schools and conferences.</p>
 	<p>This ER position will be under employment contract with University
-		of Roma “Tor Vergata” as Research Associate. You will be based in
+		of Roma "Tor Vergata" as Research Associate. You will be based in
 		Rome, Italy. The duration of the contract is 2 years starting October
 		2014, full time.</p>
 
