@@ -23,7 +23,9 @@
 				<ul class="nav">
 					<li><a href="?page=meetings">Meetings</a></li>
 					<li><a href="?page=jobs">Jobs</a></li>
+					<!--  
 					<li><a href="?page=contact">Contact</a></li>
+					-->
 				</ul>
 			</div>
 			<!--/.nav-collapse -->

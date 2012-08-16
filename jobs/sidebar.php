@@ -10,8 +10,10 @@
 			<li><a href="?page=jobs/ESR4">ESR4 (CERN)</a></li>
 			<li><a href="?page=jobs/ESR5">ESR5 (NTUA)</a></li>
 			<li><a href="?page=jobs/ESR6">ESR6 (PRI)</a></li>
+			<!--  
 			<li><a href="?page=jobs/ESR7">ESR7 (CAN)</a></li>
 			<li><a href="?page=jobs/ESR8">ESR8 (CAN)</a></li>
+			-->
 			<li><a href="?page=jobs/ESR9">ESR9 (TUM)</a></li>
 			<li><a href="?page=jobs/ESR10">ESR10 (AUEB)</a></li>
 		</ul>

@@ -49,7 +49,7 @@
 	<h3>Contact</h3>
 	<p>
 
-		<a href="mailto:"></a>
+		<a href="mailto:tca@aueb.gr">Theodore Apostolopoulos</a>
 
 	</p>
 

@@ -12,7 +12,7 @@
 		captured from an accelerometer and a gyroscope. This will be done in
 		close collaboration with EDUSAFE partner Novocaptis, Greece, who will
 		develop the hardware platform, the PhD candidate at EPFL and the
-		University of Rome “Tor Vergata” who will develop the core Computer
+		University of Rome "Tor Vergata" who will develop the core Computer
 		Vision techniques, and CERN who will develop the virtual content
 		visualizer.</p>
 	<p>You will spend up to 30% of your contract on secondments with
@@ -31,14 +31,12 @@
 	<p>This ER position will be under employment contract with EPFL. You
 		will be based in Lausanne, Switzerland. The duration of the contract
 		is 2 years, starting from about January 2014, full time.
-	
-	
-	<p>
+	</p>
 	
 	
 	<h3>Contact</h3>
 	<p>
-		<a href="mailto:"></a>
+		<a href="mailto:vincent.lepetit@epfl.ch">Vincent Lepetit</a>
 	</p>
 
 	<p>

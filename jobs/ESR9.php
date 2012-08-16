@@ -42,7 +42,7 @@
 
 	<h3>Contact</h3>
 	<p>
-		<a href="mailto:"></a>
+		<a href="mailto:klinker@in.tum.de">Gudrun Klinker</a>
 	</p>
 
 	<p>

@@ -1,7 +1,7 @@
 <div class="span12">
 	<div class="hero-unit">
 		<h1>EDUSAFE</h1>
-		<p>EDUSAFE is an ITN programme...</p>
+		<p></p>
 	</div>
 	<div class="row-fluid">
 		<ul class="thumbnails">
