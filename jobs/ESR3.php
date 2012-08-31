@@ -5,15 +5,12 @@
 		Greece</p>
 	<p>Early Stage Researcher (ESR) position for mobile sensing and data
 		transfer platform</p>
-	<p>As an ESR, you will work on a research project focussing on the
+	<p>As an ESR, you will work on a research project focusing on the
 		ability to monitor personnel and the state of the surrounding
 		environment in hostile environments, and more specifically on the
 		development of a mobile platform (wearable) that is adaptable to
 		different environments with varying sensing and transmitting
-		requirements, scalable, robust and cost effective. This project is
-		part of a large collaboration headed by the ATLAS experiment at the
-		LHC at CERN and will give researchers experience of dealing with such
-		environments.</p>
+		requirements, scalable, robust and cost effective.</p>
 	<p>You will design a system architecture, for the wearable system,
 		which is modular and flexible enough to accommodate different,
 		sensing, computational, transmitting and power expenditure
@@ -26,52 +23,43 @@
 		be included in the system architecture. The overall vision is to
 		develop a robust transmitting device that achieves the necessary
 		refresh rates for the various data components.</p>
-	<p>You will spend up to 30% of your contract on secondments with
-		EDUSAFE partners. : 2 months at EPFL Lausanne, Switzerland, for
-		computer vision, patch-based recognition techniques, 3D reconstruction
-		and pose estimation; 2 months at CERN, Switzerland, for augmented
-		reality (AR) system environment and usability requirements for the
-		LHC, large infrastructure wireless architecture design, data
-		acquisition (DAQ) architecture and development for large scale
-		scientific infrastructures.</p>
-	<p>Training will be offered in a number of soft skills including
-		project management, financial planning, marketing and others in order
-		to develop a well-rounded professional able to work efficiently both
-		in academia and industry.</p>
+	<p>This task is part of a larger international collaboration headed by 
+		the ATLAS experiment at the Large Hadron Collider, LHC, at CERN,
+		aiming to develop a novel Augmented Reality system for operation in
+		hazardous areas. As such, you will also be part of a global system 
+		protoype creation and testing campaigns in the LHC ATLAS experiment 
+		environment.</p>
 	<p>Preferred university diploma: MSc in Electrical/Computer
 		Engineering, Computer Science, Communications Engineering, Physics,
 		Mathematics or related fields and in their sub-divisions.</p>
 	<p>Requirements:</p>
-	<p>Necessary fields contributing to problem solution include, but not
-		limited to:</p>
 	<ul>
 		<li>Electronics Design & Fabrication</li>
 		<li>System Architecture Development</li>
-		<li>Embedded Systems Design & Development (including DSP programming)
-		</li>
-		<li>Software Systems Design & Development (including Software
-			Engineering Development Methodologies)</li>
-		<li>Wireless Networks</li>
-		<li>Network Programming</li>
-		<li>Antenna Design & Communications</li>
-		<li>Video encoding / decoding methods (including Signal Processing)</li>
+		<li>Embedded Systems Design & Development (including DSP programming)</li>
+		<li>Wireless Networks (including network programming)</li>
 		<li>Computational Vision</li>
-		<li>Coding and Information Theory</li>
-		<li>Machine Learning and Optimization Theory</li>
 		<li>Good knowledge of English; basic knowledge of Greek or an
 			undertaking to acquire it rapidly</li>
 	</ul>
+	<p>You will spend up to 30% of your contract on secondments with
+		EDUSAFE partners at Ecole Polytechnique F&eacute;d&eacute;rale de Lausanne, EPFL, 
+		in Switzerland, for computer vision, patch-based recognition techniques, 3D reconstruction
+		and pose estimation and at CERN in Switzerland, for augmented
+		reality system environment and usability requirements for the
+		LHC, large infrastructure wireless architecture design, data
+		acquisition architecture and development for large scale
+		scientific infrastructures.</p>
 	<p>You will participate in network wide activities such as common
 		activities with ESRs from the other EDUSAFE partners, workshops,
 		summer schools and conferences.</p>
 	<p>You will be offered the possibility to study for a PhD at the
 		Aristotle University of Thessaloniki, Department of Electrical and
-		Computer Engineering, Greece. The research performed within EDUSAFE
-		will be valid to obtain the PhD Aristotle University of Thessaloniki
-		at the end of the 3-year appointment.</p>
+		Computer Engineering, Greece using the research work performed within 
+		EDUSAFE project to obtain the PhD at the end of the 3-year contract.</p>
 	<p>This ESR position will be under employment contract with NOVOCAPTIS,
 		Thessaloniki, Greece. You will be based in Thessaloniki. The duration
-		of the contract is 3 years starting on 1 January 2013, full time.</p>
+		of the contract is 3 years expected to start from about January 2013, full time.</p>
 	<p>
 	
 	
