@@ -14,10 +14,11 @@
 		The developments and experiments will be performed first on software,
 		and then developed and merged with the WRM system developed by
 		University of Roma for speed up.</p>
-	<p>You will spend up to 30% of your contract on secondments with
-		EDUSAFE partners, including the University of Roma2 in Italy,
-		Novocaptis in Greece, the Technical University of Munich in Germany
-		and CANBERRA in France.</p>
+	<p>This task is part of a larger international collaboration coordinated 
+		by the ATLAS experiment at the Large Hadron Collider, LHC, at CERN, 
+		aiming to develop a novel Augmented Reality system for operation in hazardous
+		areas. As such, you will also be part of the global system prototype creation
+		and testing campaigns in the LHC ATLAS experiment environment.</p>
 	<p>Preferred university diploma: MSc/Diploma degree in computer
 		science, with a strong background in mathematics</p>
 	<p>Requirements:</p>
@@ -27,15 +28,22 @@
 		<li>Good knowledge of English; basic knowledge of French or an
 			undertaking to acquire it rapidly</li>
 	</ul>
+	<p>You will spend up to 30% of your contract on secondments with
+		EDUSAFE partners, including the University of Roma2 "Tor Vergata", in Italy,
+		for WRM methodology development, associated chip design, parametric 
+		space based algorithm development techniques, and at Novocaptis, in Greece, 
+		and at the Aristotle University of Thessaloniki, AUTH, in Greece,
+		for video and sensing unit development and data transfer for 3D reconstruction
+		and pose determination.</p>
 	<p>You will participate in network wide activities such as common
 		activities with ESRs from the other EDUSAFE partners, workshops,
 		summer schools and conferences.</p>
-	<p>You will be offered the possibility to study for a PhD at EPFL. The
-		research performed within EDUSAFE will contribute towards obtaining
-		the PhD.</p>
+	<p>The appointed researcher will be offered the possibility to study 
+		for a PhD at EPFL using the research work performed within EDUSAFE 
+		project to obtain a PhD at the end of the 3 years contract.</p>
 	<p>This ESR position will be under employment contract with EPFL. You
 		will be based in Lausanne, Switzerland. The duration of the contract
-		is 3 years, starting from about January 2013, full time.</p>
+		is 3 years, expecting to start from about January 2013, full time.</p>
 
 	<h3>Contact</h3>
 	<p>
@@ -43,7 +51,7 @@
 	</p>
 
 	<p>
-		<a class="btn" href="TBS">View details <i
+		<a class="btn" href="https://ert.cern.ch/browse_www/wd_portal.show_job?p_web_site_id=1&p_web_page_id=10641">Apply here <i
 			class="icon-circle-arrow-right"></i>
 		</a>
 	</p>

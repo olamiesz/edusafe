@@ -1,10 +1,10 @@
 <div class="span9">
-	<h2>ESR 5 - Control System (CS) and DAQ architecture</h2>
+	<h2>ESR 5 - Control System (CS) and Data Aquisition System (DAQ) architecture</h2>
 
 	<p>This position is with the National Technical University of Athens
 		(NTUA), Greece</p>
 	<p>Early Stage Researcher (ESR) position with EDUSAFE for Control
-		System (CS) and DAQ architecture</p>
+		System (CS) and Data Aquisition system (DAQ) architecture</p>
 	<p>As an ESR, you will be involved in the design and integration of the
 		CS and DAQ architecture and components hierarchy so as to meet the
 		stringent requirements from the Augmented Reality (AR) technology and
@@ -16,13 +16,15 @@
 		control system will be developed through web-based methods, the data
 		registered to a proper data-base for easy access for off-line
 		analysis, the calculated environmental radiation activation maps
-		compared and agree with the radiation data measured on the field. The
+		compared and agreed with the radiation data measured on the field. The
 		preparation of radiation maps is an essential activity and must be
 		solid and well understood.</p>
-	<p>You will spend three months on secondment with EDUSAFE partners :
-		one month at Universit&agrave; degli Studi di Roma "Tor Vergata" in Italy,
-		one month at the Technical University of Munich in Germany and one
-		month at CERN, Switzerland.</p>
+	<p>This task is part of a larger international collaboration coordinated 
+		by the ATLAS experiment at the Large Hadron Collider, LHC, at CERN, 
+		aiming to develop a novel Augmented Reality system for operation in 
+		hazardous areas. As such, you will also be part of the global system
+		prototype creation and testing campaigns in the LHC ATLAS experiment 
+		enviroment.</p>
 	<p>Preferred university diploma: MSc/Diploma degree in Applied Physics
 		or Electrical & Computing Engineering</p>
 	<p>Requirements:</p>
@@ -39,16 +41,23 @@
 		<li>Good knowledge of English; basic knowledge of Greek or an
 			undertaking to acquire it rapidly.</li>
 	</ul>
+	<p>You will spend up to 30% of your contract on secondments with EDUSAFE partners
+		including Canberra and CAEN University, in France, for dose rates calculations 
+		using deterministic and Monte Carlo based software, in-situ characterization 
+		using gamma imaging, spectroscopy and dose rates measurements and at CERN, Switzerland,
+		for software and DAQ architecture and development for large scale scientific 
+		infrastructures, high energy physics experiments and accelerator irradiation
+		profiles, activation and radiation characterization.</p>
 	<p>You will participate in network wide activities such as common test
 		campaigns with ESRs from the other EDUSAFE partners, workshops, summer
 		schools and conferences.</p>
 	<p>You will be offered the possibility to study for a PhD in the School
-		of Applied Mathematics & Physics Sciences of the NTUA. The research
-		performed within EDUSAFE will contribute towards the PhD at the end of
-		the 3-year appointment.</p>
+		of Applied Mathematics & Physics Sciences of the NTUA, using the research
+		work performed within EDUSAFE project to obtain a PhD at the end of
+		the 3 years contract.</p>
 	<p>This ESR position will be under employment contract with the NTUA.
 		You will be based in Athens, Greece. The duration of the contract is 3
-		years, starting February 2013, full time.</p>
+		years expected to start from about January 2013, full time.</p>
 
 	<h3>Contact</h3>
 	<p>
@@ -56,7 +65,7 @@
 	</p>
 
 	<p>
-		<a class="btn" href="TBS">View details <i
+		<a class="btn" href="https://ert.cern.ch/browse_www/wd_portal.show_job?p_web_site_id=1&p_web_page_id=10641">Apply here <i
 			class="icon-circle-arrow-right"></i>
 		</a>
 	</p>
