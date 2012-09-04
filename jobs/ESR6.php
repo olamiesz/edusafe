@@ -24,7 +24,7 @@
 		prototype creation and testing campaigns in the LHC ATLAS experiment 
 		enviroment.</p>
 	<p>Preferred university diploma: MSc/Diploma degree in
-		Electrical/Electronic Engineering & ICT</p>
+		Electrical/Electronic Engineering & ICT.</p>
 	<p>Academinc requirements:</p>
 	<ul>
 		<li>Good knowledge on Embedded Systems Engineering is required</li>
@@ -42,7 +42,7 @@
 		for environment and usability requirements for the LHC use case, large
 		infrastructure wireless architecture design, DAQ architecture and 
 		development for large scale scientific infrastructures.</p>
-	<p>You will participate in network wide activities with ESRs from the
+	<p>You will participate in network wide activities such as common test campaigns with ESRs from the
 		other EDUSAFE partners, workshops, summer schools and conferences.</p>
 	<p>As an ESR, you will be under employment contract with Prisma
 		Electronics SA. You will be based in Alexandroupolis, Greece.
@@ -52,7 +52,7 @@
 		Department of Electrical & Computer Engineering at the Democritus
 		University of Thrace (DUTH) in Xanthi (80km close to Alexandroupolis),
 		using the research work performed within the EDUSAFE project, to obtain
-		a PhD at the end of the 3-year contract.</p>
+		a PhD at the end of the 3 years contract.</p>
 	<p>
 	
 	
@@ -62,7 +62,7 @@
 	</p>
 
 	<p>
-		<a class="btn" href="TBS">View details <i
+		<a class="btn" href="https://ert.cern.ch/browse_www/wd_portal.show_job?p_web_site_id=1&p_web_page_id=10641">Apply here <i
 			class="icon-circle-arrow-right"></i>
 		</a>
 	</p>

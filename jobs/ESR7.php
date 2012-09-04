@@ -11,7 +11,7 @@
 	<p>Dose and nuclide activities calculations in nuclear characterizations 
 		are crucial to routine activities in the various nuclear industries. 
 		Current available products do not fulfill the need of the proposed system. 
-		You will develop a new dose calculation that performs also the peak 
+		You will develop a new dose calculation code that performs also the peak 
 		efficiency calculations using the ISOCS methodology. A graphical User 
 		Interface allowing general geometries and fast modeling is also needed 
 		to interface with the calculation engines. These research activities are 
@@ -19,7 +19,7 @@
 	<p>The studies will be made in close partnership with the LPC
 		(Laboratoire de Physique Corpusculaire), Caen, which will be the
 		academic link in France, and CERN, Switzerland.</p>
-	<p>This task is part of a larger international collaboration headed by 
+	<p>This task is part of a larger international collaboration coordinated by 
 		the ATLAS experiment at the Large Hadron Collider, LHC, at CERN,
 		aiming to develop a novel Augmented Reality system for operation in
 		hazardous areas. As such, you will also be part of a global system 
@@ -44,7 +44,7 @@
 	<p>You will spend 30% of your contract on secondments with EDUSAFE partners
 		at Ecole Polytechnique F&eacute;d&eacute;rale de Lausanne, EPFL, in Switzerland 
 		for computer vision, camera registration, requirements for AR applications
-		and at CERN in Switzerland, for Hubrid silicon pixel detectors technology
+		and at CERN in Switzerland, for Hybrid silicon pixel detectors technology
 		for tracking applications, high energy physics experiments and accelerators
 		irradiation and activation profiles, complex scientific infrastructure 
 		radiation protection strategy, LHC use case requirements and at the National
@@ -67,7 +67,7 @@
 	</p>
 
 	<p>
-		<a class="btn" href="TBS">View details <i
+		<a class="btn" href="https://ert.cern.ch/browse_www/wd_portal.show_job?p_web_site_id=1&p_web_page_id=10641">Apply here <i
 			class="icon-circle-arrow-right"></i>
 
 		</a>

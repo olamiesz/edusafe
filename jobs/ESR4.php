@@ -4,7 +4,7 @@
 		Nuclear Research, Switzerland</p>
 	<p>Early Stage Researcher (ESR) position for the development of the
 		system authoring and visualizer software</p>
-	<p>As an ESR, your aim is to participate in the architecture design and
+	<p>As an ESR, the aim of your work is to participate in the architecture design and
 		development of the authoring software creating the Virtual Reality
 		and Augmented Reality data contents and the visualizer
 		software that will display these data on various infrastructure
@@ -12,7 +12,7 @@
 		required Augmented Reality features in particular the parametric data
 		from the 3D tracking system developed by other EDUSAFE partners,
 		Novocaptis Greece and EPFL, Ecole Polytechnique F&eacute;d&eacute;rale de Lausanne,
-		Switzerland. You will analyse and further develop the Augmented Reality rendering
+		Switzerland. You will analyse and develop further the Augmented Reality rendering
 		methods as well as the transfer of large quantity of video data to the
 		various display devices without degrading the system performance. You
 		will work in close collaboration with TUM, Technical University of
@@ -24,7 +24,7 @@
 		collaborating institutions (EPFL, TUM) (on the following topics:
 		computer vision, patch based recognition techniques, 3D reconstruction
 		and pose determination, Augmented Reality applications and information 
-		visualization, rendering methods)</p>
+		visualization, rendering methods).</p>
 	<p>Preferred university diploma: Master/Diploma degree in Electrical and 
 		Computer Engineering / Software Engineering / Electronics.</p>
 	<p>Requirements:</p>
@@ -35,7 +35,7 @@
 		<li>Knowledge of Augmented Reality technology and methods would be a plus</li>
 		<li>Fluent English language is mandatory, Greek language knowledge will be a plus</li>
 	</ul>
-	<p>The candidate will participate in Network wide activities such as common test
+	<p>The candidate will participate in network wide activities such as common test
 		campaigns with ESRs from the other EDUSAFE partners, workshops, summer
 		schools and conferences.</p>
 	<p>The appointed researcher will be offered the possibility to study for a PhD 
@@ -47,7 +47,7 @@
 		For details please contact Professor 
 		<a href="mailto:knikita@ece.ntua.gr">Konstantina Nikita</a></p>
 	<p>The ESR will be under employment contract with CERN,
-		European Organization for Nuclear Research. The succesful will be based in
+		European Organization for Nuclear Research. The succesful candidate will be based in
 		Geneva, Switzerland. The duration of the contract is 3 years starting
 		January 2013, full time and fix-term.</p>
 	<p>
@@ -59,7 +59,7 @@
 	</p>
 
 	<p>
-		<a class="btn" href="TBS">View details <i
+		<a class="btn" href="https://ert.cern.ch/browse_www/wd_portal.show_job?p_web_site_id=1&p_web_page_id=10641">Apply here <i
 			class="icon-circle-arrow-right"></i>
 		</a>
 	</p>

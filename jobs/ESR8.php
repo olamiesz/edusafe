@@ -14,15 +14,16 @@
 		a function of the distances between the source and the camera. Radiation 
 		energy will be studied; as a preliminary study, spectroscopic capabilities
 		will be studied in order to discriminate between and identify radioelements.</p>
-	<p>This task is part of a larger international collaboration headed by 
+	<p>These research activities are vital in implementing the radiological aspect of EDUSAFE. 
+		The studies will be made in close partnership with the LPC (Laboratoire
+		de Physique Corpusculaire), Caen, which will be the academic link in France, 
+		and CERN, Switzerland  </p>
+	<p>This task is part of a larger international collaboration coordinated by 
 		the ATLAS experiment at the Large Hadron Collider, LHC, at CERN,
 		aiming to develop a novel Augmented Reality system for operation in
 		hazardous areas. As such, you will also be part of a global system 
 		protoype creation and testing campaigns in the LHC ATLAS experiment 
 		environment.</p>
-	<p>The studies will be made in close partnership with the LPC
-		(Laboratoire de Physique Corpusculaire), Caen, which will be the
-		academic link in France, and CERN.</p>
 	<p>Preferred university diploma: MSc/Diploma degree in software
 		engineering</p>
 	<p>Requirements:</p>
@@ -43,7 +44,7 @@
 		partners at Ecole Polytechnique F&eacute;d&eacute;rale de Lausanne, EPFL, 
 		in Switzerland, for computer vision, camera registration, requirements for
 		AR applications and at CERN in Switzerland, for Hybrid silicon pixel detectors
-		technology for tracking applications, high-enery physics experiments and 
+		technology for tracking applications, high-energy physics experiments and 
 		accelerators irradiation and activation profiles, complex scientific infrastructure 
 		radiation protection strategy, LHC use case requirements.</p>
 	<p>You will participate in network wide activities with ESRs from the
@@ -63,7 +64,7 @@
 	</p>
 
 	<p>
-		<a class="btn" href="TBS">View details <i
+		<a class="btn" href="https://ert.cern.ch/browse_www/wd_portal.show_job?p_web_site_id=1&p_web_page_id=10641">Apply here <i
 			class="icon-circle-arrow-right"></i>
 
 		</a>

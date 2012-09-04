@@ -55,7 +55,7 @@
 		Mathematics at University of Roma "Tor Vergata" using the research work
 		performed within EDUSAFE project to obtain a PhD at the end of
 		the 3-year contract.</p>
-	<p>The ESR position will be under employment contract with University
+	<p>The ESR will be under employment contract with University
 		of Roma "Tor Vergata". You will be based in Rome, Italy. The duration
 		of the contract is 3 years expected to start from about January 2013, full time.</p>
 
@@ -65,7 +65,7 @@
 	</p>
 
 	<p>
-		<a class="btn" href="TBS">View details <i
+		<a class="btn" href="https://ert.cern.ch/browse_www/wd_portal.show_job?p_web_site_id=1&p_web_page_id=10641">Apply here <i
 			class="icon-circle-arrow-right"></i>
 		</a>
 	</p>

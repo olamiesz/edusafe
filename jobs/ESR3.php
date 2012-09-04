@@ -12,7 +12,7 @@
 		different environments with varying sensing and transmitting
 		requirements, scalable, robust and cost effective.</p>
 	<p>You will design a system architecture, for the wearable system,
-		which is modular and flexible enough to accommodate different,
+		which is modular and flexible enough to accommodate different
 		sensing, computational, transmitting and power expenditure
 		requirements. A network protocol will be developed to efficiently pass
 		sensing information, with special emphasis on video/image
@@ -23,7 +23,7 @@
 		be included in the system architecture. The overall vision is to
 		develop a robust transmitting device that achieves the necessary
 		refresh rates for the various data components.</p>
-	<p>This task is part of a larger international collaboration headed by 
+	<p>This task is part of a larger international collaboration coordinated by 
 		the ATLAS experiment at the Large Hadron Collider, LHC, at CERN,
 		aiming to develop a novel Augmented Reality system for operation in
 		hazardous areas. As such, you will also be part of a global system 
@@ -35,7 +35,6 @@
 	<p>Requirements:</p>
 	<ul>
 		<li>Electronics Design & Fabrication</li>
-		<li>System Architecture Development</li>
 		<li>Embedded Systems Design & Development (including DSP programming)</li>
 		<li>Wireless Networks (including network programming)</li>
 		<li>Computational Vision</li>
@@ -70,7 +69,7 @@
 	</p>
 
 	<p>
-		<a class="btn" href="TBS">View details <i
+		<a class="btn" href="https://ert.cern.ch/browse_www/wd_portal.show_job?p_web_site_id=1&p_web_page_id=10641">Apply here <i
 			class="icon-circle-arrow-right"></i>
 		</a>
 	</p>

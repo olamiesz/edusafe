@@ -16,7 +16,7 @@
 		control system will be developed through web-based methods, the data
 		registered to a proper data-base for easy access for off-line
 		analysis, the calculated environmental radiation activation maps
-		compared and agree with the radiation data measured on the field. The
+		compared and agreed with the radiation data measured on the field. The
 		preparation of radiation maps is an essential activity and must be
 		solid and well understood.</p>
 	<p>This task is part of a larger international collaboration coordinated 
@@ -42,9 +42,9 @@
 			undertaking to acquire it rapidly.</li>
 	</ul>
 	<p>You will spend up to 30% of your contract on secondments with EDUSAFE partners
-		Including Canberra and CAEN University, in France, for dose rates calculations 
+		including Canberra and CAEN University, in France, for dose rates calculations 
 		using deterministic and Monte Carlo based software, in-situ characterization 
-		using gamme imaging, spectroscopy and dose rates measurements and at CERN, Switzerland,
+		using gamma imaging, spectroscopy and dose rates measurements and at CERN, Switzerland,
 		for software and DAQ architecture and development for large scale scientific 
 		infrastructures, high energy physics experiments and accelerator irradiation
 		profiles, activation and radiation characterization.</p>
@@ -65,7 +65,7 @@
 	</p>
 
 	<p>
-		<a class="btn" href="TBS">View details <i
+		<a class="btn" href="https://ert.cern.ch/browse_www/wd_portal.show_job?p_web_site_id=1&p_web_page_id=10641">Apply here <i
 			class="icon-circle-arrow-right"></i>
 		</a>
 	</p>

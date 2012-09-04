@@ -45,8 +45,8 @@
 		the end of the 3 years contract.</p>
 	<p>This ESR position will be under employment contract with the
 		Fakult&auml;t f&uuml;r Informatik of the TUM. You will be based in Munich,
-		Germany. The duration of the contract is 3 years expected to start about in January
-		2013, full time.</p>
+		Germany. The duration of the contract is 3 years expected to start about 
+		January 2013, full time.</p>
 
 	<h3>Contact</h3>
 	<p>
@@ -54,7 +54,7 @@
 	</p>
 
 	<p>
-		<a class="btn" href="TBS">View details <i
+		<a class="btn" href="https://ert.cern.ch/browse_www/wd_portal.show_job?p_web_site_id=1&p_web_page_id=10641">Apply here <i
 			class="icon-circle-arrow-right"></i>
 		</a>
 	</p>
