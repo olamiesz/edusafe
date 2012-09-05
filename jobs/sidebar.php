@@ -7,7 +7,7 @@
 			<li><a href="?page=jobs/ER2">ER2 - EPFL - Switzerland</a>
 			<li><a href="?page=jobs/ESR2">ESR2 - EPFL - Switzerland</a></li>
 			<li><a href="?page=jobs/ESR3">ESR3 - NOCA - Greece</a></li>
-			<li><a href="?page=jobs/ESR4">ESR4 - CERN)</a></li>
+			<li><a href="?page=jobs/ESR4">ESR4 - CERN - Switzerland</a></li>
 			<li><a href="?page=jobs/ESR5">ESR5 - NTUA - Greece</a></li>
 			<li><a href="?page=jobs/ESR6">ESR6 - PRI - Greece</a></li>
 			<li><a href="?page=jobs/ESR7">ESR7 - CAN - France</a></li>
