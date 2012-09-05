@@ -61,6 +61,8 @@ body {
 	<?php if (file_exists($topbar)) include($topbar); else echo 'ERROR loading Topbar'; ?>
 
 	<div class="container-fluid">
+		<?php if (file_exists($header)) include($header); ?>
+
 		<div class="row-fluid">
 
 			<?php if (file_exists($sidebar)) include($sidebar); ?>
@@ -70,7 +72,9 @@ body {
 		</div>
 		<!--/row-->
 
-		<?php if (file_exists($footer)) include($footer); else echo 'ERROR loading Footer'; ?>
+		<?php if (file_exists($footer)) include($footer); ?>
+
+		<?php if (file_exists($bottombar)) include($bottombar); else echo 'ERROR loading bottombar'; ?>
 		
 	</div>
 	<!--/.fluid-container-->
