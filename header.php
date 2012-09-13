@@ -73,6 +73,21 @@
 							src="./img/logoTum56x56.png" alt="" />
 					</a></li>
 
+					<li><a href="http://www.unicaen.fr" target="blank" rel="tooltip"
+						title="Universite de Caen Basse Normandie" class="thumbnail"> <img
+							src="./img/logoUCBN108x56.png" alt="" />
+					</a></li>
+
+					<li><a href="http://www.auth.gr" target="blank" rel="tooltip"
+						title="Aristotle University of Thessaloniki" class="thumbnail"> <img
+							src="./img/logoAuth59x56.png" alt="" />
+					</a></li>
+
+					<li><a href="http://www.duth.gr" target="blank" rel="tooltip"
+						title="Democritus University of Thrace" class="thumbnail"> <img
+							src="./img/logoDuth119x56.png" alt="" />
+					</a></li>
+
 				</ul>
 			</div>
 		</div>
