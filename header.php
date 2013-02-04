@@ -2,7 +2,7 @@
 	<div class="hero-unit">
 		<div class="row-fluid">
 			<div class="span6">
-				<h1>EDUSAFE</h1>
+				<img src="./img/logoMarieCurie80x56.png" alt="" />
 				<p>Education in advanced VR/AR Safety Systems for Maintenance in
 					Extreme Environments</p>
 			</div>
