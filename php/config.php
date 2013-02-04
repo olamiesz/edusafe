@@ -1,6 +1,6 @@
 <?php
 $topbar = './topbar.php';
-$footer = './footer.php';
+$bottombar = './bottombar.php';
 
 // Analyse page query parameter. Outpiut is
 // $dir = directory to look for content
@@ -27,7 +27,7 @@ if ($extension == '') {
 // construct proper content and sidebars
 $content = $dir.'/'.$file;
 $sidebar = $dir.'/'.'sidebar.php';
-
-
+$header = $dir.'/'.'header.php';
+$footer = $dir.'/'.'footer.php';
 
 ?>

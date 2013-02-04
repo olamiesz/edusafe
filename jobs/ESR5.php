@@ -1,68 +1,73 @@
-
 <div class="span9">
-	<h2>Control System (CS) and DAQ architecture</h2>
+	<h2>ESR 5 - Control System (CS) and Data Aquisition System (DAQ) architecture</h2>
 
-	<h3>Fellowship Description</h3>
-	<p>The CS and DAQ architecture and components hierarchy need to be
-		designed and integrated to meet the stringent requirements from the
-		Augmented Reality (AR) technology and the software implementation
-		constraints. It needs to be adaptable and scalable to various working
-		environment (sea, space, large underground areas,..) and must easily
-		accept various types of detectors/sensors. Attention needs to be paid
-		to maintain high-speed communication rates and data exchange between
-		the supervised persons and supervisors. The control system will be
-		developed through web-based methods, the data registered to a proper
-		data-base for easy access for off-line analysis, the calculated
-		environmental radiation activation maps compared and agree with the
-		radiation data measured on the field. The preparation of radiation
-		maps is an essential activity and must be solid and well understood.</p>
-
-	<h3>Academic Requirements</h3>
+	<p>This position is with the National Technical University of Athens
+		(NTUA), Greece</p>
+	<p>Early Stage Researcher (ESR) position with EDUSAFE for Control
+		System (CS) and Data Aquisition system (DAQ) architecture</p>
+	<p>As an ESR, you will be involved in the design and integration of the
+		CS and DAQ architecture and components hierarchy so as to meet the
+		stringent requirements from the Augmented Reality (AR) technology and
+		the software implementation constraints. It needs to be adaptable and
+		scalable to various working environment (sea, space, large underground
+		areas,..) and must easily accept various types of detectors/sensors.
+		Attention needs to be paid to maintain high-speed communication rates
+		and data exchange between the supervised persons and supervisors. The
+		control system will be developed through web-based methods, the data
+		registered to a proper data-base for easy access for off-line
+		analysis, the calculated environmental radiation activation maps
+		compared and agreed with the radiation data measured on the field. The
+		preparation of radiation maps is an essential activity and must be
+		solid and well understood.</p>
+	<p>This task is part of a larger international collaboration coordinated 
+		by the ATLAS experiment at the Large Hadron Collider, LHC, at CERN, 
+		aiming to develop a novel Augmented Reality system for operation in 
+		hazardous areas. As such, you will also be part of the global system
+		prototype creation and testing campaigns in the LHC ATLAS experiment 
+		enviroment.</p>
+	<p>Preferred university diploma: MSc/Diploma degree in Applied Physics
+		or Electrical & Computing Engineering</p>
+	<p>Requirements:</p>
 	<ul>
-		<li>MSc or equivalent degree in Applied Physics or Electrical &amp;
-			Computing Engineering.</li>
-		<li>Good knowledge on Nuclear & Particle Physics and Radiation Physics
-			with applications.</li>
-		<li>Experience/knowledge to radiation detectors, front-end
-			electronics, test-beam prototype detector measurements</li>
-		<li>Experience/knowledge in control and DAQ systems will be
-			appreciated.</li>
+		<li>Good knowledge of Nuclear & Particle Physics and Radiation Physics
+			with applications</li>
+		<li>Experience/knowledge of radiation detectors, front-end
+			electronics, test-beam prototype detector measurements.</li>
+		<li>Experience/knowledge of control and DAQ systems would be an
+			advantage.</li>
 		<li>Strong interest in a substantial research project, ability to work
 			independently, persistence in the face of setbacks and
 			self-discipline are important qualities taken into consideration.</li>
-		<li>Fluent in English and/or Greek in languages.</li>
+		<li>Good knowledge of English; basic knowledge of Greek or an
+			undertaking to acquire it rapidly.</li>
 	</ul>
-
-	<ul>
-		<li>Candidate will have the possibility to pursue a PhD in the School
-			of Applied Mathematics &amp; Physics Sciences of the National Technical
-			University of Athens (NTUA). Location</li>
-	</ul>
-
-	<h3>Location</h3>
-	<p>This fellowship will be under employment Contract with the National
-		Technical University of Athens (NTUA). The successful candidate will
-		be based in Athens, Greece and visit CERN in Geneva, Switzerland.</p>
-
-	<h3>Secondments</h3>
-	<ul>
-		<li>1 month at Universita Degli Studi Di Roma Tor Vergata (Feb 2014)
-		
-		<li>1 month at Technical University of Munich (May 2014)
-		
-		<li>1 month at CERN (Sep 2013 &amp; Feb 2015)
-	
-	</ul>
-
-	<h3>Duration of fellowship</h3>
-	<p>The duration of the contract will be 36 months - commencing Feb
-		2013.</p>
+	<p>You will spend up to 30% of your contract on secondments with EDUSAFE partners
+		including Canberra and CAEN University, in France, for dose rates calculations 
+		using deterministic and Monte Carlo based software, in-situ characterization 
+		using gamma imaging, spectroscopy and dose rates measurements and at CERN, Switzerland,
+		for software and DAQ architecture and development for large scale scientific 
+		infrastructures, high energy physics experiments and accelerator irradiation
+		profiles, activation and radiation characterization.</p>
+	<p>You will participate in network wide activities such as common test
+		campaigns with ESRs from the other EDUSAFE partners, workshops, summer
+		schools and conferences.</p>
+	<p>You will be offered the possibility to study for a PhD in the School
+		of Applied Mathematics & Physics Sciences of the NTUA, using the research
+		work performed within EDUSAFE project to obtain a PhD at the end of
+		the 3 years contract.</p>
+	<p>This ESR position will be under employment contract with the NTUA.
+		You will be based in Athens, Greece. The duration of the contract is 3
+		years expected to start from about January 2013, full time.</p>
 
 	<h3>Contact</h3>
-	<p>Olga Beltramello</p>
+	<p>
+		<a href="mailto:evangelos.gazis@cern.ch">Evangelos Gazis</a>
+	</p>
 
 	<p>
-		<a class="btn" href="TBS">View details &raquo;</a>
+		<a class="btn" href="https://ert.cern.ch/browse_www/wd_portal.show_job?p_web_site_id=1&p_web_page_id=10641">Apply here <i
+			class="icon-circle-arrow-right"></i>
+		</a>
 	</p>
 
 </div>

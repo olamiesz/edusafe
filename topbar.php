@@ -1,10 +1,10 @@
-<div class="navbar navbar-fixed-top">
+<div class="navbar navbar-inverse navbar-fixed-top">
 	<div class="navbar-inner">
 		<div class="container-fluid">
 			<a class="btn btn-navbar" data-toggle="collapse"
 				data-target=".nav-collapse"> <span class="icon-bar"></span> <span
 				class="icon-bar"></span> <span class="icon-bar"></span>
-			</a> <a class="brand" href="site.php">EDUSAFE</a>
+			</a> <a class="brand" href="site.php"><i class="icon-home icon-white"></i> EDUSAFE</a>
 <!-- 
           <div class="btn-group pull-right">
             <a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
@@ -25,7 +25,9 @@
 					<li><a href="?page=jobs">Jobs</a></li>
 					<li><a href="?page=training">Training</a></li>
 					<li><a href="?page=outreach">Outreach</a></li>
+					<!--  
 					<li><a href="?page=contact">Contact</a></li>
+					-->
 				</ul>
 			</div>
 			<!--/.nav-collapse -->

@@ -1,44 +1,59 @@
-
 <div class="span9">
-	<h2>3D tracking system development</h2>
-
-	<h3>Fellowship Description</h3>
-	<p>The candidate will develop original Computer Vision techniques for
+	<h2>ESR2 - 3D tracking system development</h2>
+	<p>This position is with EDUSAFE partner Ecole Polytechnique F&eacute;d&eacute;rale
+		de Lausanne (EPFL), Switzerland</p>
+	<p>Early Stage Researcher (ESR) position for 3D tracking system
+		development</p>
+	<p>As an ESR, you will develop original Computer Vision techniques for
 		real-time 3D tracking solutions using a monocular camera. The tracking
 		system will then be used for the Augmented Reality applications within
-		EDUSAFE. To this end, the candidate will focus on a novel image patch
+		EDUSAFE. To this end, you will focus on a novel image patch
 		recognition method, which will be at the core of the 3D tracking
 		system. This will involve building upon recent work on fast image
 		patch recognition and scalable Approximate Nearest Neighbor search.
 		The developments and experiments will be performed first on software,
 		and then developed and merged with the WRM system developed by
 		University of Roma for speed up.</p>
-
-	<h3>Academic Requirements</h3>
-	<p>The candidate must hold a Master's degree in Computer Science, with
-		a strong background in mathematics. Experience in Computer Vision are
-		welcome but not required. The candidate is required to apply to one of
-		EPFL's doctoral schools.</p>
-
-	<p>Candidates will have the possibility to do a PhD at Ecole
-		Polytechnique Federale de Lausanne (EPFL).</p>
-
-	<h3>Location</h3>
-	<p>This fellowship will be under employment contract with EPFL. The
-		candidate will be based in Lausanne, Switzerland.</p>
-
-	<h3>Secondments</h3>
-	<p>Roma2, NOCA, TUM, CAN</p>
-
-	<h3>Duration of fellowship</h3>
-	<p>Starting from about January 2013, for a period of 3 years. This post
-		is full time and fixed-term.</p>
+	<p>This task is part of a larger international collaboration coordinated 
+		by the ATLAS experiment at the Large Hadron Collider, LHC, at CERN, 
+		aiming to develop a novel Augmented Reality system for operation in hazardous
+		areas. As such, you will also be part of the global system prototype creation
+		and testing campaigns in the LHC ATLAS experiment environment.</p>
+	<p>Preferred university diploma: MSc/Diploma degree in computer
+		science, with a strong background in mathematics</p>
+	<p>Requirements:</p>
+	<ul>
+		<li>Experience in Computer Vision is welcome but not required</li>
+		<li>Application to one of EPFL's doctoral schools</li>
+		<li>Good knowledge of English; basic knowledge of French or an
+			undertaking to acquire it rapidly</li>
+	</ul>
+	<p>You will spend up to 30% of your contract on secondments with
+		EDUSAFE partners, including the University of Roma2 "Tor Vergata", in Italy,
+		for WRM methodology development, associated chip design, parametric 
+		space based algorithm development techniques, and at Novocaptis, in Greece, 
+		and at the Aristotle University of Thessaloniki, AUTH, in Greece,
+		for video and sensing unit development and data transfer for 3D reconstruction
+		and pose determination.</p>
+	<p>You will participate in network wide activities such as common
+		activities with ESRs from the other EDUSAFE partners, workshops,
+		summer schools and conferences.</p>
+	<p>The appointed researcher will be offered the possibility to study 
+		for a PhD at EPFL using the research work performed within EDUSAFE 
+		project to obtain a PhD at the end of the 3 years contract.</p>
+	<p>This ESR position will be under employment contract with EPFL. You
+		will be based in Lausanne, Switzerland. The duration of the contract
+		is 3 years, expecting to start from about January 2013, full time.</p>
 
 	<h3>Contact</h3>
-	<p>Olga Beltramello</p>
+	<p>
+		<a href="mailto:vincent.lepetit@epfl.ch">Vincent Lepetit</a>
+	</p>
 
 	<p>
-		<a class="btn" href="TBS">View details &raquo;</a>
+		<a class="btn" href="https://ert.cern.ch/browse_www/wd_portal.show_job?p_web_site_id=1&p_web_page_id=10641">Apply here <i
+			class="icon-circle-arrow-right"></i>
+		</a>
 	</p>
 
 </div>

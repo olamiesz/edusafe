@@ -1,130 +1,95 @@
-<header  style="padding-top: 50px; padding-bottom: 10px;" id="overview">
-	<div class="inner">
-		<div class="container">
-			<div class="row">
-						
-					<div class="span2" style="margin-left: 4px; margin-top: 193px; border: 0px solid #ccc;">
-					<ul class="media-grid" >
-						<li style="float: left;">
-							<a style="float: left;" href="" target="blank" rel="twipsy"  title="title">
-								<img class="thumbnail" src="./img/logo80x56.png" alt=""/>
-							</a>
-						</li>
-					</ul>
-					</div>
-
-
-						<div class="clearfix" style="float: left; width: 378px; margin-left: 188px; margin-right: 0; margin-bottom: 5px; border: 0px solid #ccc;">
-							<a href="" target="blank" style="border: 0px solid #ccc;">
-								<img class="thumbnail" src="./img/PROJECT-logo-378x250.png" alt=""/>
-							</a>
-						</div>
-
-
-					<div class="span2" style="margin-left: 190px; margin-top: 193px; border: 0px solid #ccc;">
-					<ul class="media-grid">
-						<li style="float: right;">
-							<a style="float: left;" href="" target="blank" rel="twipsy"  title="title">
-								<img class="thumbnail" src="./img/logo80x56.png" alt=""/>
-							</a>
-						</li>
-					</ul>
-					</div>
-
-
-
-
-			</div><!--row-->
-
-
-			</br>
-
-			<div class="row">
-			<ul class="media-grid" style="border: 0 solid #ccc;">
-				<li style="float: left; width: 143px; margin-left: 4px; margin-right: auto; border: 0 solid #ccc;">
-					<a href="" target="blank" rel="twipsy" data-placement="left" title="left">
-						<img class="thumbnail" src="./img/logo80x56.png" alt=""/>
-					</a>
-				</li>
-
-				<li style="float: left; width: 143px; margin-left: auto; margin-right: auto;">
-					<a href="" target="blank" rel="twipsy" title="title">
-						<img class="thumbnail" src="./img/logo80x56.png" alt=""/>
-					</a>
-				</li>
-				<li style="float: left; width: 143px; margin-left: auto; margin-right: auto;">
-					<a href="" target="blank" rel="twipsy" title=""title">
-						<img class="thumbnail" src="./img/logo80x56.png" alt=""/>
-					</a>
-				</li>
-				<li style="float: left; width: 143px; margin-left: auto; margin-right: auto;">
-					<a href="" target="blank" rel="twipsy" title=""title">
-						<img class="thumbnail" src="./img/logo80x56.png" alt=""/>
-					</a>
-				</li>
-				<li style="float: left; width: 143px; margin-left: auto; margin-right: auto;">
-					<a href="" target="blank" rel="twipsy" title=""title">
-						<img class="thumbnail" src="./img/logo80x56.png" alt=""/>
-					</a>
-				</li>
-				<li style="float: left; width: 143px; margin-left: auto; margin-right: auto;">
-					<a href="" target="blank" rel="twipsy" title=""title">
-						<img class="thumbnail" src="./img/logo80x56.png" alt=""/>
-					</a>
-				</li>
-
-				<li style="float: left; margin-left: auto; margin-right: auto;">
-					<a href="" target="blank" rel="twipsy" data-placement="right" title="right">
-						<img class="thumbnail" src="./img/logo80x56.png" alt=""/>
-					</a>
-				</li>
-
-			</ul>				
-			
+<div class="row-fluid">
+	<div class="hero-unit">
+		<div class="row-fluid">
+			<div class="span6">
+				<h1>EDUSAFE</h1>
+				<p>Education in advanced VR/AR Safety Systems for Maintenance in
+					Extreme Environments</p>
 			</div>
-			
-			</br>
-			
-			<div class="row">
-			<ul class="media-grid" style="border: 0 solid #ccc;">
 
+			<div class="span6">
+				<ul class="thumbnails">
+					<li><a href="http://atlas.web.cern.ch/Atlas/Collaboration/"
+						target="blank" rel="tooltip" title="ATLAS" class="thumbnail"> <img
+							src="./img/logoATLAS147x56.png" alt="" />
+					</a></li>
 
-				<li style="float: left; width: 143px; margin-left: 147px; margin-right: auto;">
-					<a href="" target="blank" rel="twipsy" data-placement="below" title="below">
-						<img class="thumbnail" src="./img/logo80x56.png" alt=""/>
-					</a>
-				</li>
-				<li style="float: left; width: 143px; margin-left: auto; margin-right: auto;">
-					<a href="" target="blank" rel="twipsy" data-placement="below" title="below">
-						<img class="thumbnail" src="./img/logo80x56.png" alt=""/>
-					</a>
-				</li>
-				<li style="float: left; width: 143px; margin-left: auto; margin-right: auto;">
-					<a href="" target="blank" data-placement="below" title="below">
-						<img class="thumbnail" src="./img/logo80x56.png" alt=""/>
-					</a>
-				</li>
-				<li style="float: left; width: 143px; margin-left: auto; margin-right: auto;">
-					<a href="" target="blank" data-placement="below" title="below">
-						<img class="thumbnail" src="./img/logo80x56.png" alt=""/>
-					</a>
-				</li>
-				<li style="float: left; width: 143px; margin-left: auto; margin-right: auto;">
-					<a href="" target="blank" rel="twipsy" data-placement="below" title="below">
-						<img class="thumbnail" src="./img/logo80x56.png" alt=""/>
-					</a>
-				</li>
-				
-				
-			</ul>
+					<li><a href="http://public.web.cern.ch/public/" target="blank"
+						rel="tooltip" title="CERN" class="thumbnail"> <img
+							src="./img/logoCERN80x56.png" alt="" />
+					</a></li>
+
+					<li><a href="http://ec.europa.eu/research/mariecurieactions/"
+						target="blank" rel="tooltip" title="Marie Curie Actions"
+						class="thumbnail"> <img src="./img/logoMarieCurie80x56.png" alt="" />
+					</a></li>
+
+					<li><a href="http://cordis.europa.eu/fp7/home_en.html"
+						target="blank" rel="tooltip"
+						title="The Seventh Framework Programme" class="thumbnail"> <img
+							src="./img/logoFP7People80x56.png" alt="" />
+					</a></li>
+
+				</ul>
+				<br />
+				<ul class="thumbnails">
+					<li><a href="http://www.epfl.ch" target="blank" rel="tooltip"
+						title="Ecole Polytechnique Federale de Lausanne" class="thumbnail">
+							<img src="./img/logoEPFL116x56.png" alt="" />
+					</a></li>
+
+					<li><a href="http://www.ntua.gr/index_en.html" target="blank"
+						rel="tooltip" title="National Technical University of Athens"
+						class="thumbnail"> <img src="./img/logoNTUA80x56.png" alt="" />
+					</a></li>
+
+					<li><a href="http://web.uniroma2.it/home-en.php" target="blank"
+						rel="tooltip" title="Tor Vergata" class="thumbnail"> <img
+							src="./img/logoTOV80x56.png" alt="" />
+					</a></li>
+
+					<li><a href="http://www.novocaptis.com/" target="blank"
+						rel="tooltip" title="Novocaptis" class="thumbnail"> <img
+							src="./img/logoNovocaptis111x56.png" alt="" />
+					</a></li>
+
+					<li><a href="http://www.prisma.gr" target="blank" rel="tooltip"
+						title="Prisma" class="thumbnail"> <img
+							src="./img/logoPrisma153x56.png" alt="" />
+					</a></li>
+
+					<li><a href="http://www.aueb.gr" target="blank" rel="tooltip"
+						title="Athens University of Economics and Business"
+						class="thumbnail"> <img src="./img/logoAUEB81x56.png" alt="" />
+					</a></li>
+
+					<li><a href="http://www.canberra.com" target="blank" rel="tooltip"
+						title="CANBERRA" class="thumbnail"> <img
+							src="./img/logoCanberra133x56.png" alt="" />
+					</a></li>
+
+					<li><a href="http://www.tum.de" target="blank" rel="tooltip"
+						title="Technical University Munchen" class="thumbnail"> <img
+							src="./img/logoTum56x56.png" alt="" />
+					</a></li>
+
+					<li><a href="http://www.unicaen.fr" target="blank" rel="tooltip"
+						title="Universite de Caen Basse Normandie" class="thumbnail"> <img
+							src="./img/logoUCBN108x56.png" alt="" />
+					</a></li>
+
+					<li><a href="http://www.auth.gr" target="blank" rel="tooltip"
+						title="Aristotle University of Thessaloniki" class="thumbnail"> <img
+							src="./img/logoAuth59x56.png" alt="" />
+					</a></li>
+
+					<li><a href="http://www.duth.gr" target="blank" rel="tooltip"
+						title="Democritus University of Thrace" class="thumbnail"> <img
+							src="./img/logoDuth119x56.png" alt="" />
+					</a></li>
+
+				</ul>
 			</div>
 		</div>
 	</div>
-	<script>
-		$(function () {
-		  $("a[rel=twipsy]").twipsy({
-			live: true
-		  })
-		})
-	</script>
-</header>
+</div>
