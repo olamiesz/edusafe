@@ -21,10 +21,11 @@
 			<div class="nav-collapse">
 				<ul class="nav">
 					<li><a href="?page=meetings">Meetings</a></li>
+					<li><a href="?page=organization">Organization</a></li>
 					<li><a href="?page=research">Research</a></li>
 					<li><a href="?page=jobs">Jobs</a></li>
 					<li><a href="?page=training">Training</a></li>
-					<li><a href="?page=outreach">Outreach</a></li>
+					<li><a href="">Outreach</a></li>
 					<!--  
 					<li><a href="?page=contact">Contact</a></li>
 					-->
