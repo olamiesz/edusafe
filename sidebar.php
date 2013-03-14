@@ -1,4 +1,5 @@
 <div class="span3">
+<!--
 	<h2>Kick-Off Meeting</h2>
 	<p>EDUSAFE's kick-off meeting will be organized at CERN on Monday 17th
 		of September, 2012. We warmly welcome you or a representative of your
@@ -13,6 +14,7 @@
 			Information <i class="icon-circle-arrow-right"></i>
 		</a>
 	</p>
+-->
 	<h2>Job Openings !</h2>
 	<p>EDUSAFE is currently recruiting 10 Early stage researchers and 2 Experienced researchers.</p>
 	<p>
