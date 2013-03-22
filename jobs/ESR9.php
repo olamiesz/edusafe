@@ -1,4 +1,3 @@
-<div class="span9">
 	<h2>ESR 9 - Augmented-Reality-based display and interaction environment</h2>
 	<p>This position is with Technische Universit&auml;t M&uuml;nchen (TUM), Munich,
 		Germany</p>
@@ -59,4 +58,3 @@
 		</a>
 	</p>
 
-</div>

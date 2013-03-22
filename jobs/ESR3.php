@@ -1,4 +1,3 @@
-<div class="span9">
 	<h2>ESR 3 - Mobile sensing and data transfer platform</h2>
 
 	<p>This position is with EDUSAFE partner NOVOCAPTIS, Thessaloniki,
@@ -74,5 +73,4 @@
 		</a>
 	</p>
 
-</div>
 

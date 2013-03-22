@@ -1,5 +1,4 @@
 
-<div class="span9">
 	<div class="hero-unit">
 		<h1>Research</h1>
 		<p></p>
@@ -52,4 +51,3 @@ WP5 studies how a technology prototype, in this case prepared for the CERN extre
 
 </div>
 
-</div>

@@ -1,4 +1,3 @@
-<div class="span9">
 	<h2>ESR 6 - System Modularity and Integration Optimization</h2>
 
 	<p>This position is with EDUSAFE partner PRISMA Electronics SA, Greece</p>
@@ -67,4 +66,3 @@
 		</a>
 	</p>
 
-</div>

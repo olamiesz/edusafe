@@ -1,4 +1,3 @@
-<div class="span9">
 	<h2>ESR 1 - WRM Chip Development - Mathematical properties and
 		algorithms</h2>
 	<p>This position is with EDUSAFE partner University of Roma "Tor
@@ -70,4 +69,3 @@
 		</a>
 	</p>
 
-</div>

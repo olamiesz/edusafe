@@ -1,4 +1,3 @@
-<div class="span9">
 	<h2>ESR2 - 3D tracking system development</h2>
 	<p>This position is with EDUSAFE partner Ecole Polytechnique F&eacute;d&eacute;rale
 		de Lausanne (EPFL), Switzerland</p>
@@ -56,4 +55,3 @@
 		</a>
 	</p>
 
-</div>

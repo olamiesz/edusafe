@@ -1,4 +1,3 @@
-<div class="span9">
 	<h2>ESR 4 - Authoring and visualizer software</h2>
 	<p>This position is with ITN partner: CERN, European Organization for
 		Nuclear Research, Switzerland</p>
@@ -64,4 +63,3 @@
 		</a>
 	</p>
 
-</div>

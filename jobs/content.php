@@ -1,5 +1,4 @@
 
-<div class="span9">
 	<div class="hero-unit">
 		<h1>Job Openings</h1>
 	</div>
@@ -39,4 +38,3 @@
 				href="mailto:Olga.Beltramello@cern.ch">EDUSAFE Network Coordinator</a>.
 		</p>
 	</div>
-</div>

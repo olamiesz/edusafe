@@ -1,5 +1,4 @@
 
-<div class="span9">
 	<div class="hero-unit">
 		<h1>Training</h1>
 	</div>
@@ -13,5 +12,4 @@ EDUSAFE ITN offers vast and diverse set of training possibilities both in scient
 The complementary skills training concentrates on providing knowledge in areas such as project management, entrepreneurship, languages, commercializing scientific results and Intellectual Property Rights.
 </p>
 
-</div>
 </div>

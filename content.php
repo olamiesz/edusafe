@@ -1,4 +1,3 @@
-<div class="span9">
 	<div class="row-fluid">
 		
 		<p>EDUSAFE is a 4-year Marie Curie ITN project that provides training
@@ -45,7 +44,6 @@
 	</div>
 
 
-</div>
 <!--/span-->
 
 <script>

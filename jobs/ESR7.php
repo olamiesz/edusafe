@@ -1,4 +1,3 @@
-<div class="span9">
 	<h2>ESR 7 - Fast dose calculation code development</h2>
 	<p>This position is with EDUSAFE partner Canberra in Montigny, France</p>
 	<p>Early Stage Researcher (ESR) position for fast dose calculation code
@@ -73,5 +72,4 @@
 		</a>
 	</p>
 
-</div>
 

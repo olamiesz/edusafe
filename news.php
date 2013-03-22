@@ -1,4 +1,3 @@
-<div class="span3">
 <!--
 	<h2>Kick-Off Meeting</h2>
 	<p>EDUSAFE's kick-off meeting will be organized at CERN on Monday 17th
@@ -30,5 +29,3 @@
 		</a>
 	</p>
 
-
-</div>

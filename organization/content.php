@@ -1,5 +1,3 @@
-
-<div class="span9">
 	<div class="hero-unit">
 		<h1>Organization</h1>
 		<p></p>
@@ -53,4 +51,3 @@ The EDUSAFE Project Office at CERN assists the Network Coordinator by providing 
 
 </div>
 
-</div>
