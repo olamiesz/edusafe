@@ -19,6 +19,10 @@ The result will be an integrated wearable VR/AR system (+control system), which 
 </p>
 
 <p>
+<img src="research/p1.png" width="50%"/><img src="research/p4.png" width="50%" />
+</p>
+
+<p>
 The research in EDUSAFE is grouped into 4 different Work Packages.
 </p>
 
