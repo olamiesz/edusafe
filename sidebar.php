@@ -14,7 +14,7 @@
 		</a>
 	</p>
 	<h2>Job Openings !</h2>
-	<p>EDUSAFE is currently recruiting 10 Early stage researchers and 2 Experienced researchers.</p>
+	<p>EDUSAFE is currently recruiting 2 Experienced researchers.</p>
 	<p>
 		<a class="btn" href="?page=jobs">More Information <i
 			class="icon-circle-arrow-right"></i>
