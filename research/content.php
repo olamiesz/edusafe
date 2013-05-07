@@ -15,7 +15,7 @@ The research challenges lie in the development of real-time (with time-lags less
 </p>
 
 <p>
-The result will be an integrated wearable VR/AR system (+control system), which can be implemented and tested as a prototype in CERN’s existing LHC Personnel Safety System.
+The result will be an integrated wearable VR/AR system (+control system), which can be implemented and tested as a prototype in CERN's existing LHC Personnel Safety System.
 </p>
 
 <p>
@@ -24,7 +24,7 @@ The research in EDUSAFE is grouped into 4 different Work Packages.
 
 <h2>Work Packages</h2>
 
-<h3>Work Package 2: Virtual and Augmented Reality technology development</h3>
+<h3><a href="?page=research/WP2">Work Package 2: Virtual and Augmented Reality technology development</a></h3>
 
 <p>
 This WP focuses on WRM (Weighting Resistor Matrix) chip development, which consists of a short-term phase where the software driven methods, that could provide a sufficient Augmented Reality support to the Personal Supervision System (PSS), are optimized.  Also the possibilities for hardware acceleration by means of the WRM system will be studied as a future capability.
