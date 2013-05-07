@@ -24,11 +24,40 @@
 					<li><a href="?page=meetings">Meetings</a></li>
 -->
 					<li><a href="?page=organization">Organization</a></li>
-					<li><a href="?page=research">Research</a></li>
-					<li><a href="?page=jobs">Jobs</a></li>
-					<li><a href="?page=training">Training</a></li>
-					<li><a href="http://cern.ch/edusafe-itn">Member Area</a></li>
-<!--
+					
+					<li class="dropdown"><a href="#" class="dropdown-toggle"
+						data-toggle="dropdown">Research <b class="caret"></b></a>						
+						<ul class="dropdown-menu">
+							<li><a href="?page=research">Overview</a></li>
+							<li class="divider"></li>
+							<li><a href="?page=research/WP2">WP 2</a></li>
+						</ul>
+					</li>					
+					
+					<li class="dropdown"><a href="#" class="dropdown-toggle"
+						data-toggle="dropdown">Jobs <b class="caret"></b></a>						
+						<ul class="dropdown-menu">
+							<li><a href="?page=jobs">Overview</a></li>
+							<li class="divider"></li>
+							<li><a href="?page=jobs/ER1">ER1 - Roma2 - Italy</a></li>
+							<li><a href="?page=jobs/ER2">ER2 - EPFL - Switzerland</a>
+						</ul>
+					</li>					
+
+					<li class="dropdown"><a href="#" class="dropdown-toggle"
+						data-toggle="dropdown">Training <b class="caret"></b></a>						
+						<ul class="dropdown-menu">
+							<li><a href="?page=training">Overview</a></li>
+							<li class="divider"></li>
+							<li><a href="?page=training/TrainingEvents">Training Events</a></li>
+						</ul>
+					</li>					
+					
+					<li><a href="http://cern.ch/edusafe-itn">Member Area 
+						</a>
+					</li>
+										
+					<!--
 					<li><a href="">Outreach</a></li>
 -->
 					<!--  
