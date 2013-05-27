@@ -4,6 +4,8 @@
 </div>
 
 <div class="row-fluid">
+	<img src="training/Training.png" style="float:right; padding-left:10px; padding-bottom:10px;"/>
+
 	<p>EDUSAFE ITN offers vast and diverse set of training
 		possibilities both in scientific training as well as in complimentary
 		skills training.</p>
@@ -55,7 +57,5 @@
 		labor market and in order to ensure a successful career in research,
 		the young researchers need to have a great set of soft skills in
 		addition to the technical knowledge in their respective fields.</p>
-
-	<img src="training/Training.png"/>
 
 </div>
