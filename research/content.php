@@ -47,7 +47,7 @@ the software of the PSS module, the Control System and the Data Acquisition syst
 WP4 concentrates on enhancement of the safety system by integrating the gamma radiation imaging features together with the associated dose rates calculation codes. WP4 will also focus on designing and setting up a flexible 3D display infrastructure and on developing new methods of human-machine -interaction and user interface commands.
 </p>
 
-<h3>Work Package 5: Technology assessment and Exploitation</h3>
+<h3><a href="?page=research/WP5">Work Package 5: Technology assessment and Exploitation</a></h3>
 
 <p>
 WP5 studies how a technology prototype, in this case prepared for the CERN extreme environment, can be transferred to other industry sectors and how to develop and introduce a planning tech-development strategy, which incorporates possible technology transfer potential from the start. 

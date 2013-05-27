@@ -31,6 +31,7 @@
 							<li><a href="?page=research">Overview</a></li>
 							<li class="divider"></li>
 							<li><a href="?page=research/WP2">WP 2</a></li>
+							<li><a href="?page=research/WP5">WP 5</a></li>
 						</ul>
 					</li>					
 					

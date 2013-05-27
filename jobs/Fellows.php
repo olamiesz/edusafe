@@ -44,6 +44,7 @@
 <dt>Research Project:</dt>
 </dl> 
 
+<img src="img/Lakshmi.jpg" width="15%" style="float:left; padding-right:10px;" />
 <dl>
 <dt>ESR4:</dt><dd>Lakshmi Prabha Nattamai Sekar</dd>
 <dt>Start date:</dt><dd>1.4.2013</dd>
@@ -51,6 +52,8 @@
 <dt>Host Organization:</dt><dd>CERN</dd>
 <dt>Research Project:</dt>
 </dl> 
+
+<div style="clear:both;" />
 
 <dl>
 <dt>ESR5:</dt>
@@ -60,13 +63,16 @@
 <dt>Research Project:</dt>
 </dl> 
 
+<img src="img/Alam.png" width="15%" style="float:left; padding-right:10px;" />
 <dl>
-<dt>ESR6:</dt>
+<dt>ESR6:</dt><dd>Alam Fasiul</dd>
 <dt>Start date:</dt>
 <dt>Supervisor:</dt><dd>Petros Soukoulias</dd>
 <dt>Host Organization:</dt><dd>PRISMA Electronics SA</dd>
 <dt>Research Project:</dt>
 </dl> 
+
+<div style="clear:both;" />
 
 <dl>
 <dt>ESR7:</dt>
@@ -84,6 +90,7 @@
 <dt>Research Project:</dt>
 </dl> 
 
+<img src="img/Yuta.jpg" width="15%" style="float:left; padding-right:10px;" />
 <dl>
 <dt>ESR9:</dt><dd>Yuta Itoh</dd>
 <dt>Start date:</dt><dd>1.4.2013</dd>
@@ -91,6 +98,8 @@
 <dt>Host Organization:</dt><dd>Technische Universität München (TUM)</dd>
 <dt>Research Project:</dt>
 </dl> 
+
+<div style="clear:both;" />
 
 <dl>
 <dt>ESR10:</dt>
