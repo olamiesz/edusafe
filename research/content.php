@@ -19,7 +19,7 @@ The result will be an integrated wearable VR/AR system (+control system), which 
 </p>
 
 <p>
-<img src="research/p1.png" width="50%"/><img src="research/p4.png" width="50%" />
+<img src="research/p1.jpg" width="50%"/><img src="research/p4.jpg" width="50%" />
 </p>
 
 <p>
