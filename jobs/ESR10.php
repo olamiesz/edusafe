@@ -1,4 +1,3 @@
-<div class="span9">
 	<h2>ESR 10 - Technology Assessment and Exploitation</h2>
 	<p>This position is with EDUSAFE partner The Athens University of
 		Economics & Business (AUEB).</p>
@@ -65,4 +64,3 @@
 		</a>
 	</p>
 
-</div>

@@ -49,7 +49,7 @@ body {
 <link rel="apple-touch-icon-precomposed"
 	href="../assets/ico/apple-touch-icon-57-precomposed.png">
 
-<title>Project</title>
+<title>EDUSAFE</title>
 
 </head>
 
@@ -65,10 +65,21 @@ body {
 
 		<div class="row-fluid">
 
-			<?php if (file_exists($sidebar)) include($sidebar); ?>
-
-			<?php if (file_exists($content)) include($content); else echo 'Error page does not exist:', $content; ?>
-
+			<div class="span3">
+				<?php if (file_exists($sidebar)) {
+					echo '<div class="well sidebar-nav">';
+						echo '<img src="img/edusafeblue_transparentbackg.png"/>';
+						include($sidebar); 
+					echo '</div>';
+				} ?>
+				<?php if (file_exists($news)) {
+					include($news); 
+				} ?>
+			</div>
+			
+			<div class="span9">
+				<?php if (file_exists($content)) include($content); else echo 'Error page does not exist:', $content; ?>
+			</div>
 		</div>
 		<!--/row-->
 

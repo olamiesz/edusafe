@@ -1,5 +1,6 @@
-<div class="span9">
 	<div class="row-fluid">
+
+		<img src="img/AtlasSideView.jpg" width="50%" style="float:right; padding-left:10px; padding-bottom:10px" />
 		
 		<p>EDUSAFE is a 4-year Marie Curie ITN project that provides training
 			for 10 Early Stage Researchers and 2 Experienced Researchers. The
@@ -45,7 +46,6 @@
 	</div>
 
 
-</div>
 <!--/span-->
 
 <script>

@@ -1,4 +1,3 @@
-<div class="span9">
 	<h2>ESR 5 - Control System (CS) and Data Aquisition System (DAQ) architecture</h2>
 
 	<p>This position is with the National Technical University of Athens
@@ -70,4 +69,3 @@
 		</a>
 	</p>
 
-</div>

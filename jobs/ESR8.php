@@ -1,4 +1,3 @@
-<div class="span9">
 	<h2>ESR 8 - Next generation gamma imager development</h2>
 	<p>This position is with EDUSAFE partner Canberra in Montigny, 
 		France.</p>
@@ -70,5 +69,4 @@
 		</a>
 	</p>
 
-</div>
 

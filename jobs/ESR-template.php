@@ -1,4 +1,3 @@
-<div class="span9">
 	<h2></h2>
 
 	<p>
@@ -11,4 +10,3 @@
 		<a class="btn" href="TBS">View details <i class="icon-circle-arrow-right"></i></a>
 	</p>
 
-</div>

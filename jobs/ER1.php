@@ -1,4 +1,3 @@
-<div class="span9">
 	<h2>ER 1 - WRM Chip Development - IC layout design</h2>
 
 	<p>This position is with EDUSAFE partner University of Roma "Tor
@@ -60,4 +59,3 @@
 		</a>
 	</p>
 
-</div>

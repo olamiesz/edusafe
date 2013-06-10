@@ -1,4 +1,3 @@
-
 <div class="navbar navbar-inverse navbar-fixed-top">
 	<div class="navbar-inner">
 		<div class="container-fluid">
@@ -21,8 +20,47 @@
 -->
 			<div class="nav-collapse">
 				<ul class="nav">
+<!--
 					<li><a href="?page=meetings">Meetings</a></li>
-					<li><a href="?page=jobs">Jobs</a></li>
+-->
+					<li><a href="?page=organization">Organization</a></li>
+					
+					<li class="dropdown"><a href="#" class="dropdown-toggle"
+						data-toggle="dropdown">Research <b class="caret"></b></a>						
+						<ul class="dropdown-menu">
+							<li><a href="?page=research">Overview</a></li>
+							<li class="divider"></li>
+							<li><a href="?page=research/WP2">WP 2</a></li>
+							<li><a href="?page=research/WP5">WP 5</a></li>
+						</ul>
+					</li>					
+					
+					<li class="dropdown"><a href="#" class="dropdown-toggle"
+						data-toggle="dropdown">Jobs <b class="caret"></b></a>						
+						<ul class="dropdown-menu">
+							<li><a href="?page=jobs">Overview</a></li>
+							<li class="divider"></li>
+							<li><a href="?page=jobs/ER1">ER1 - Roma2 - Italy</a></li>
+							<li><a href="?page=jobs/ER2">ER2 - EPFL - Switzerland</a>
+						</ul>
+					</li>					
+
+					<li class="dropdown"><a href="#" class="dropdown-toggle"
+						data-toggle="dropdown">Training <b class="caret"></b></a>						
+						<ul class="dropdown-menu">
+							<li><a href="?page=training">Overview</a></li>
+							<li class="divider"></li>
+							<li><a href="?page=training/TrainingEvents">Training Events</a></li>
+						</ul>
+					</li>					
+					
+					<li><a href="http://cern.ch/edusafe-itn">Member Area 
+						</a>
+					</li>
+										
+					<!--
+					<li><a href="">Outreach</a></li>
+-->
 					<!--  
 					<li><a href="?page=contact">Contact</a></li>
 					-->

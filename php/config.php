@@ -27,7 +27,9 @@ if ($extension == '') {
 // construct proper content and sidebars
 $content = $dir.'/'.$file;
 $sidebar = $dir.'/'.'sidebar.php';
-$header = $dir.'/'.'header.php';
-$footer = $dir.'/'.'footer.php';
+//$news =    $dir.'/'.'news.php';
+$news =    './news.php';
+$header =  $dir.'/'.'header.php';
+$footer =  $dir.'/'.'footer.php';
 
 ?>

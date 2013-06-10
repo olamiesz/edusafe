@@ -1,13 +1,13 @@
 <div class="row-fluid">
 	<div class="hero-unit">
 		<div class="row-fluid">
-			<div class="span6">
-				<h1>EDUSAFE</h1>
+			<div class="span4">
+				<img src="./img/edusafeblue_transparentbackg.png" alt="" />
 				<p>Education in advanced VR/AR Safety Systems for Maintenance in
 					Extreme Environments</p>
 			</div>
 
-			<div class="span6">
+			<div class="span8">
 				<ul class="thumbnails">
 					<li><a href="http://atlas.web.cern.ch/Atlas/Collaboration/"
 						target="blank" rel="tooltip" title="ATLAS" class="thumbnail"> <img
@@ -30,9 +30,6 @@
 							src="./img/logoFP7People80x56.png" alt="" />
 					</a></li>
 
-				</ul>
-				<br />
-				<ul class="thumbnails">
 					<li><a href="http://www.epfl.ch" target="blank" rel="tooltip"
 						title="Ecole Polytechnique Federale de Lausanne" class="thumbnail">
 							<img src="./img/logoEPFL116x56.png" alt="" />
