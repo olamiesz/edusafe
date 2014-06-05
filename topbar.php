@@ -31,19 +31,21 @@
 							<li><a href="?page=research">Overview</a></li>
 							<li class="divider"></li>
 							<li><a href="?page=research/WP2">WP 2</a></li>
+							<li><a href="?page=research/WP3">WP 3</a></li>
+							<li><a href="?page=research/WP4">WP 4</a></li>
 							<li><a href="?page=research/WP5">WP 5</a></li>
 						</ul>
 					</li>					
 					
-					<li class="dropdown"><a href="#" class="dropdown-toggle"
+					<!--<li class="dropdown"><a href="#" class="dropdown-toggle"
 						data-toggle="dropdown">Jobs <b class="caret"></b></a>						
 						<ul class="dropdown-menu">
 							<li><a href="?page=jobs">Overview</a></li>
 							<li class="divider"></li>
-							<li><a href="?page=jobs/ER1">ER1 - Roma2 - Italy</a></li>
-							<li><a href="?page=jobs/ER2">ER2 - EPFL - Switzerland</a>
+							
+							<li><a href="?page=jobs/ESR5">ESR5 - IASA - Greece</a></li>
 						</ul>
-					</li>					
+					</li>-->					
 
 					<li class="dropdown"><a href="#" class="dropdown-toggle"
 						data-toggle="dropdown">Training <b class="caret"></b></a>						

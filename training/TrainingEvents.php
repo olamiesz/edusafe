@@ -1,3 +1,8 @@
+
+<div class="hero-unit">
+	<h1>Training</h1>
+</div>
+
 <div class="span9">
 	<h2>Training Events</h2>
 
@@ -14,11 +19,11 @@ Preliminary Program of training events and programs
 </p>
 
 <pre>
-Kick-Off Week           June 2013
-Summer School I         February 2014
+Kick-Off Week           October 2013
+Spring School	        March 2014
 Joint training events   June 2014
 Joint training events   October 2014
-Summer School II        May 2015
+Summer School	        May 2015
 Final Conference        June 2016
 </pre>
 

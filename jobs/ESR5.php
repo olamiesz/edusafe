@@ -1,7 +1,8 @@
 	<h2>ESR 5 - Control System (CS) and Data Aquisition System (DAQ) architecture</h2>
 
-	<p>This position is with the National Technical University of Athens
-		(NTUA), Greece</p>
+	<p>This position is with the Institute of Accelerating Systems and 
+	Applications
+		(IASA), Greece</p>
 	<p>Early Stage Researcher (ESR) position with EDUSAFE for Control
 		System (CS) and Data Aquisition system (DAQ) architecture</p>
 	<p>As an ESR, you will be involved in the design and integration of the
@@ -53,10 +54,11 @@
 	<p>You will be offered the possibility to study for a PhD in the School
 		of Applied Mathematics & Physics Sciences of the NTUA, using the research
 		work performed within EDUSAFE project to obtain a PhD at the end of
-		the 3 years contract.</p>
-	<p>This ESR position will be under employment contract with the NTUA.
-		You will be based in Athens, Greece. The duration of the contract is 3
-		years expected to start from about January 2013, full time.</p>
+		the contract.</p>
+	<p>This ESR position will be under employment contract with the IASA. You 
+	will be based in Athens, Greece. The full time contract under EDUSAFE 
+	funding is expected to start before the end of 2013 and it will finish on 31 
+	August 2016.</p>
 
 	<h3>Contact</h3>
 	<p>

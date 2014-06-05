@@ -1,3 +1,7 @@
+<div class="hero-unit">
+		<h1>Job Openings</h1>
+	</div>
+
 	<h2>ER 1 - WRM Chip Development - IC layout design</h2>
 
 	<p>This position is with EDUSAFE partner University of Roma "Tor

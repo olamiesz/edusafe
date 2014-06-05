@@ -1,3 +1,8 @@
+	<div class="hero-unit">
+		<h1>Research</h1>
+		<p></p>
+	</div>
+
 <div class="span9">
 	<h2>Work Package 2: Virtual and Augmented Reality technology
 		development</h2>

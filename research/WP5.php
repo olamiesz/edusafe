@@ -1,3 +1,8 @@
+	<div class="hero-unit">
+		<h1>Research</h1>
+		<p></p>
+	</div>
+
 <div class="span9">
 
 <h2>Work Package 5: Technology assessment and Exploitation</h2>

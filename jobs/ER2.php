@@ -1,3 +1,7 @@
+	<div class="hero-unit">
+		<h1>Job Openings</h1>
+	</div>
+
 	<h2>ER 2 - 3D tracking system development</h2>
 
 	<p>This position is with EDUSAFE partner Ecole Polytechnique F&eacute;d&eacute;rale
