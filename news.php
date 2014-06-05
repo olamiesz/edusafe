@@ -1,3 +1,14 @@
+<h2>EDUSAFE Meeting</h2>
+	<p>EDUSAFE Mid Term Review and Technical Meetings will take place at CERN 16 - 20 June 2014.</p>
+	<p>
+		<a class="btn" 
+		href="https://indico.cern.ch/event/307430/">
+		More Information <i
+			class="icon-circle-arrow-right"></i>
+		</a>
+	</p>
+
+
 <h2>EDUSAFE Spring School</h2>
 	<p>EDUSAFE Spring School will take place at CERN 3 - 7 March 2014.</p>
 	<p>
