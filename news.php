@@ -13,7 +13,7 @@
 	<p>EDUSAFE Spring School will take place at CERN 3 - 7 March 2014.</p>
 	<p>
 		<a class="btn" 
-		href="https://indico.cern.ch/conferenceDisplay.py?confId=263532">
+		href="https://indico.cern.ch/event/293157/">
 		More Information <i
 			class="icon-circle-arrow-right"></i>
 		</a>
