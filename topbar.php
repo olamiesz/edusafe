@@ -37,6 +37,14 @@
 						</ul>
 					</li>					
 					
+					<li class="dropdown"><a href="#" class="dropdown-toggle"
+						data-toggle="dropdown">Progress <b class="caret"></b></a>						
+						<ul class="dropdown-menu">
+							<li><a href="progress/WP2.pdf">WP 2 (pdf)</a></li>
+							<li><a href="progress/WP4.pdf">WP 4 (pdf)</a></li>
+						</ul>
+					</li>					
+					
 					<!--<li class="dropdown"><a href="#" class="dropdown-toggle"
 						data-toggle="dropdown">Jobs <b class="caret"></b></a>						
 						<ul class="dropdown-menu">
