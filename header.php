@@ -8,7 +8,9 @@
 			</div>
 
 			<div class="span8">
-				<ul class="thumbnails">
+				<h1>Education in advanced VR/AR Safety Systems for Maintenance in
+					Extreme Environments</h1>
+			<!--	<ul class="thumbnails">
 					<li><a href="http://atlas.web.cern.ch/Atlas/Collaboration/"
 						target="blank" rel="tooltip" title="ATLAS" class="thumbnail"> <img
 							src="./img/logoATLAS147x56.png" alt="" />
@@ -85,7 +87,7 @@
 							src="./img/logoDuth119x56.png" alt="" />
 					</a></li>
 
-				</ul>
+				</ul>-->
 			</div>
 		</div>
 	</div>
